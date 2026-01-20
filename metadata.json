@@ -1,0 +1,9 @@
+{
+  "name": "Aura: AI Personal Assistant",
+  "description": "A comprehensive AI personal assistant that tracks activities, remembers context, researches with Maps and Search, and executes tasks using the full Gemini suite.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
